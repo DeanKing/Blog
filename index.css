@@ -12,7 +12,7 @@ div {
 	line-height: 50px
 }*/
 .header {
-	background-image: url("Epigraph.jpeg");
+	background-image: url("Epigraph.jpg");
 	background-repeat: repeat;
 	background-position: center;
 	width: 1115px;
@@ -22,20 +22,21 @@ div {
 	margin-top: 0px;
 }
 .content {
-	width: 960px;
+	width: 1115px;
 	height: 1000px;
 	margin: 0 auto;
 }
 .left_part {
 	width: 220px;
 	height: 1000px;
-	background: #0F6;
+	/*background: #0F6;*/
 	float: left
 }
 .right_part {
-	width: 740px;
+	width: 895px;
 	height: 1000px;
 	/*background: #33F;*/
+	border: 0px rgb(236,238,235) solid;
 	float: right
 }
 .footer {
